@@ -23,5 +23,5 @@
 [fuzzing 7*7][http://verneet.com/fuzzing-77-till-p1/]<br>
 [php vulnerabilityaudit-cheatsheet][https://github.com/dustyfresh/PHP-vulnerability-audit-cheatsheet]<br>
 [AllThingsSSRF][https://github.com/jdonsec/AllThingsSSRF]
-
+[Find Subdomain Takeover with Amass + SubJack][https://www.hahwul.com/2019/10/find-subdomain-takeover-with-amass-and-subjack.html]
 
