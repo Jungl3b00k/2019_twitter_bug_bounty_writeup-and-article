@@ -1,35 +1,8 @@
 ## Welcome to GitHub Pages
 
 THis Contains Writeup,Tutorial and articles that I liked in Twitter in 2019.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jungl3b00k/2019_twitter_bug_bounty_writeup-and-article/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Web Cache Posoning](https://www.youtube.com/watch?v=IQG_wb8ocr0)
+[Metasploit_cheat_sheet](https://twitter.com/jeremysaldate/status/1199108174067851266/photo/1)
+[CVE-2019-19268 rConfig 3.9.2 Local Privilege Escalation] (https://github.com/TheCyberGeek/CVE-2019-19268)
+[CVE-2019-16663 / CVE-2019-16662 ](https://github.com/dustyfresh/PHP-vulnerability-audit-cheatsheet)
+[contact support](vibs123i@gmail.com)
