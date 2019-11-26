@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Jungl3b00k/2019_twitter_bug_bounty_writeup-and-article/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+THis Contains Writeup,Tutorial and articles that I liked in Twitter in 2019.
 
 ### Markdown
 
