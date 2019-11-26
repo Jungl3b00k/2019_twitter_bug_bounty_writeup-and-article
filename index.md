@@ -27,3 +27,4 @@
 [Linux directory cheatsheet][https://twitter.com/Alra3ees/status/1181028153944358913/photo/1]<br>
 Introduction how to Exploit JWT[http://intx0x80.blogspot.com/2019/10/JWT.html]<br>
 Awesome Resources.[https://www.hahwul.com/p/resources.html]
+Tilloct7
