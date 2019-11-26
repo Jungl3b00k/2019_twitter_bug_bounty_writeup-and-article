@@ -22,6 +22,8 @@
 [Cache Poisoning denial of service][https://cpdos.org/]<br>
 [fuzzing 7*7][http://verneet.com/fuzzing-77-till-p1/]<br>
 [php vulnerabilityaudit-cheatsheet][https://github.com/dustyfresh/PHP-vulnerability-audit-cheatsheet]<br>
-[AllThingsSSRF][https://github.com/jdonsec/AllThingsSSRF]
-[Find Subdomain Takeover with Amass + SubJack][https://www.hahwul.com/2019/10/find-subdomain-takeover-with-amass-and-subjack.html]
-
+[AllThingsSSRF][https://github.com/jdonsec/AllThingsSSRF]<br>
+[Find Subdomain Takeover with Amass + SubJack][https://www.hahwul.com/2019/10/find-subdomain-takeover-with-amass-and-subjack.html]<br>
+[Linux directory cheatsheet][https://twitter.com/Alra3ees/status/1181028153944358913/photo/1]<br>
+Introduction how to Exploit JWT[http://intx0x80.blogspot.com/2019/10/JWT.html]<br>
+Awesome Resources.[https://www.hahwul.com/p/resources.html]
