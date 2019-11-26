@@ -11,4 +11,17 @@ THis Contains Writeup,Tutorial and articles that I liked in Twitter in 2019.<br>
 [cellular-hacking][https://blog.kelvinsecurity.com/cellular-hacking/]<br>
 [osint][https://blog.kelvinsecurity.com/osint/]<br>
 [iot-hacking][https://blog.kelvinsecurity.com/iot-hacking/]<br>
-[contact support][vibs123i@gmail.com]<br>
+[guide-to-basic-recon-for-bugbounty] [https://blog.securitybreached.org/2017/11/25/guide-to-basic-recon-for-bugbounty/]<br>
+[lifomic coin][https://twitter.com/MadGuyyy/status/1197553624760512512/photo/1]<br>
+[defcon:Owning The Clout Through Server Side Request Forgery][https://www.youtube.com/watch?v=o-tL9ULF0KI&feature=youtu.be]<br>
+[SSRF via DNS rebinding ][https://geleta.eu/2019/my-first-ssrf-using-dns-rebinfing/]<br>
+[sql-injection-payload-list-b97656cfd66b][https://medium.com/@ismailtasdelen/sql-injection-payload-list-b97656cfd66b]<br>
+[Bug Bounty Hunting with ⁦⁦@Random_Robbie][https://securitytrails.com/blog/bug-bounty-hunting]<br>
+[naffy hunting tips][https://twitter.com/nnwakelam/status/1191797523373068288]<br>
+[http://verneet.com/fuzzing-77-till-p1/]<br>
+[Cache Poisoning denial of service][https://cpdos.org/]<br>
+[fuzzing 7*7][http://verneet.com/fuzzing-77-till-p1/]<br>
+[php vulnerabilityaudit-cheatsheet][https://github.com/dustyfresh/PHP-vulnerability-audit-cheatsheet]<br>
+[AllThingsSSRF][https://github.com/jdonsec/AllThingsSSRF]
+
+
