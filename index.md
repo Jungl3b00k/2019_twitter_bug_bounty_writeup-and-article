@@ -1,3 +1,4 @@
+## Welcome to GitHub Pages
 
 THis Contains Writeup,Tutorial and articles that I liked in Twitter in 2019.<br>
 [Web Cache Posoning][https://www.youtube.com/watch?v=IQG_wb8ocr0]<br>
@@ -8,6 +9,6 @@ THis Contains Writeup,Tutorial and articles that I liked in Twitter in 2019.<br>
 [list-of-awesome-penetration-testing-resources][https://blog.kelvinsecurity.com/2019/09/23/list-of-awesome-penetration-testing-resources/]<br>
 [car-hacking][https://blog.kelvinsecurity.com/car-hacking/]<br>
 [cellular-hacking][https://blog.kelvinsecurity.com/cellular-hacking/]<br>
-[Web Cache Posoning][https://www.youtube.com/watch?v=IQG_wb8ocr0]<br>
-[Web Cache Posoning][https://www.youtube.com/watch?v=IQG_wb8ocr0]<br>
+[osint][https://blog.kelvinsecurity.com/osint/]<br>
+[iot-hacking][https://blog.kelvinsecurity.com/iot-hacking/]<br>
 [contact support][vibs123i@gmail.com]<br>
